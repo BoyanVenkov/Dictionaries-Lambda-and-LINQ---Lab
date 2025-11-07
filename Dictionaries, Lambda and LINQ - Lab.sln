@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Real Numbers", "01. Count Real Numbers\01. Count Real Numbers.csproj", "{56FEA84E-203D-486C-B337-F6E312A717FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd Occurrences", "02. Odd Occurrences\02. Odd Occurrences.csproj", "{53DEFFC6-34F7-4335-8F8F-F75CE89D9378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Chars in a String", "05. Count Chars in a String\05. Count Chars in a String.csproj", "{948D2123-0359-4D5F-91C4-8D4A47824935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{56FEA84E-203D-486C-B337-F6E312A717FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56FEA84E-203D-486C-B337-F6E312A717FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56FEA84E-203D-486C-B337-F6E312A717FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DEFFC6-34F7-4335-8F8F-F75CE89D9378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DEFFC6-34F7-4335-8F8F-F75CE89D9378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DEFFC6-34F7-4335-8F8F-F75CE89D9378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DEFFC6-34F7-4335-8F8F-F75CE89D9378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948D2123-0359-4D5F-91C4-8D4A47824935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948D2123-0359-4D5F-91C4-8D4A47824935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948D2123-0359-4D5F-91C4-8D4A47824935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948D2123-0359-4D5F-91C4-8D4A47824935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
