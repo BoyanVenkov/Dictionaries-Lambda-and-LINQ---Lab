@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Synonyms", "03. Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. A Miner Task", "06. A Miner Task\06. A Miner Task.csproj", "{91F3BFB0-D82C-416D-8988-7E919AA79701}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Word Filter", "04. Word Filter\04. Word Filter.csproj", "{86E0143A-C3D9-462D-A48E-0EF0FFDEFB34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{91F3BFB0-D82C-416D-8988-7E919AA79701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F3BFB0-D82C-416D-8988-7E919AA79701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F3BFB0-D82C-416D-8988-7E919AA79701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E0143A-C3D9-462D-A48E-0EF0FFDEFB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E0143A-C3D9-462D-A48E-0EF0FFDEFB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E0143A-C3D9-462D-A48E-0EF0FFDEFB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E0143A-C3D9-462D-A48E-0EF0FFDEFB34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
