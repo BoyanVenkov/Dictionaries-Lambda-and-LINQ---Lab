@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Word Filter", "04. Word
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Orders", "07. Orders\07. Orders.csproj", "{967F8761-331B-4844-9FD7-A1332EB8199B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SoftUni Parking", "08. SoftUni Parking\08. SoftUni Parking.csproj", "{F3A474D3-5AFD-481F-BE99-16F2E23A4592}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{967F8761-331B-4844-9FD7-A1332EB8199B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{967F8761-331B-4844-9FD7-A1332EB8199B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{967F8761-331B-4844-9FD7-A1332EB8199B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A474D3-5AFD-481F-BE99-16F2E23A4592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A474D3-5AFD-481F-BE99-16F2E23A4592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A474D3-5AFD-481F-BE99-16F2E23A4592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A474D3-5AFD-481F-BE99-16F2E23A4592}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
